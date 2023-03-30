@@ -1,6 +1,6 @@
 package com.pdfbox;
 
-import com.glaway.common.utils.PdfBoxUtils;
+import com.dj.common.utils.PdfBoxUtils;
 import lombok.SneakyThrows;
 import org.apache.pdfbox.pdmodel.PDDocument;
 import org.apache.pdfbox.rendering.PDFRenderer;
